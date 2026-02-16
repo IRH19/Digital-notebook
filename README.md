@@ -11,4 +11,7 @@ DSA project
 Cyber Security project
 
 Gmail footer with LinkedIn, Github etc while applying.
+
 ...
+We need to find ways to deal with the state that we are nowhere near BIG tech level. 
+What to do? How to do while having 2 full-time jobs now + University upcoming pressure.
